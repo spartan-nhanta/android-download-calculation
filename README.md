@@ -10,9 +10,12 @@ Please move your report csv file to the same location with .go file
 
 Then name it `all-countries.csv`
 
-|----sum_downloads.go
-|----sum_downloads
-|----all-countries.csv
+```
+.
+├── sum_downloads.go
+├── sum_downloads
+└── all-countries.csv
+```
 
 Please note that the program only works with the same csv pattern to `all-countries-example.csv`
 
